@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stefanoravaglia
 
-- 👀 I’m interested in ...
-         everything?
+- 👀 I’m interested in ... too much!
+
 
 - 🌱 I’m currently learning ...
          julia, asymptote, latex
