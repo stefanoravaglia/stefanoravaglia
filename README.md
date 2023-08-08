@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning ...
-         julia, sagemath, asymptote, latex
+         julia, sagemath, latex
 
 - 💞️ I’m looking to collaborate on ...
          developping a path to help 
